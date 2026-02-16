@@ -8,15 +8,15 @@ O programa cria uma lista de usuários, adiciona elementos dinamicamente e exibe
 - Biblioteca: java.util.List e java.util.ArrayList
 
 ## 🧩 Estrutura do código
-
-- Lista.java
+ 
+  Lista.java
 - Cria uma lista de usuários (ArrayList<User>).
 - Adiciona 10 usuários com nomes e sobrenomes numerados.
 - Exibe o último usuário da lista.
 - Adiciona um novo usuário (Nome 11, Sobrenome 11) e mostra seus dados.
 
 
-- User.java
+  User.java
 - Representa a entidade usuário com atributos firtName e lastName.
 - Construtor transforma automaticamente o firtName em letras maiúsculas.
 - Possui métodos getters e setters para manipulação dos atributos.
