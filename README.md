@@ -16,7 +16,7 @@ O programa cria uma lista de usuários, adiciona elementos dinamicamente e exibe
 - Adiciona um novo usuário (Nome 11, Sobrenome 11) e mostra seus dados.
 
 
-  User.java
+User.java
 - Representa a entidade usuário com atributos firtName e lastName.
 - Construtor transforma automaticamente o firtName em letras maiúsculas.
 - Possui métodos getters e setters para manipulação dos atributos.
